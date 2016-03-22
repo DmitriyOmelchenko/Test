@@ -1,0 +1,6 @@
+C:\Users\pervolo\Documents\Visual Studio 2015\Projects\Test\ConsoleTest\ConsoleTest\bin\Debug\ConsoleTest.exe.config
+C:\Users\pervolo\Documents\Visual Studio 2015\Projects\Test\ConsoleTest\ConsoleTest\bin\Debug\ConsoleTest.exe
+C:\Users\pervolo\Documents\Visual Studio 2015\Projects\Test\ConsoleTest\ConsoleTest\bin\Debug\ConsoleTest.pdb
+C:\Users\pervolo\Documents\Visual Studio 2015\Projects\Test\ConsoleTest\ConsoleTest\obj\Debug\ConsoleTest.csprojResolveAssemblyReference.cache
+C:\Users\pervolo\Documents\Visual Studio 2015\Projects\Test\ConsoleTest\ConsoleTest\obj\Debug\ConsoleTest.exe
+C:\Users\pervolo\Documents\Visual Studio 2015\Projects\Test\ConsoleTest\ConsoleTest\obj\Debug\ConsoleTest.pdb
