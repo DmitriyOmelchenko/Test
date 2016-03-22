@@ -11,6 +11,7 @@ namespace ConsoleTest
         static void Main(string[] args)
         {
             Console.WriteLine("File in new Branch ");
+            Console.WriteLine("Some text");
             Console.ReadKey();
         }
     }
