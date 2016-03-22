@@ -10,7 +10,7 @@ namespace ConsoleTest
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("New Hello World");
+            Console.WriteLine("File change ");
             Console.ReadKey();
         }
     }
