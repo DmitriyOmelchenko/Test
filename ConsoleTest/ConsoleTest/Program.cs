@@ -10,7 +10,7 @@ namespace ConsoleTest
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("File change ");
+            Console.WriteLine("File in new Branch ");
             Console.ReadKey();
         }
     }
